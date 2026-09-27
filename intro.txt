@@ -6,4 +6,4 @@ Major / program: M.S. in Data Science and Analytics
 
 Favorite dataset or industry interest: Trust and Safety Analytics
 
-One reason I am studying analytics: 
+One reason I am studying analytics: I want to use data to help make online spaces safer for children and teenagers at Google.
