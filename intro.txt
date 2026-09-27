@@ -4,6 +4,6 @@ Name: SOL VLOEBERGH
 
 Major / program: M.S. in Data Science and Analytics
 
-Favorite dataset or industry interest: 
+Favorite dataset or industry interest: Trust and Safety Analytics
 
 One reason I am studying analytics: 
