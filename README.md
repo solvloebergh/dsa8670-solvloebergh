@@ -73,3 +73,11 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+
+
+## Why Version Control Matters for Analytics
+Version control helps analytics teams track changes to code, data preparation, 
+and documentation. If a result changes, the commit history helps us see what changed and when. 
+This connects to the reading about Git keeping a history of a project. 
+GitHub also lets teammates review changes in a pull request before merging them into the main branch.
